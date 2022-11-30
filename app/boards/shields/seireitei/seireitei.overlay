@@ -66,6 +66,7 @@
               <&pro_micro 3 GPIO_ACTIVE_HIGH>, /* P0.20 NRF52840, D3 pro-micro */
               <&pro_micro 2 GPIO_ACTIVE_HIGH>, /* P0.17 NRF52840, D2 pro-micro */
               <&pro_micro 0 GPIO_ACTIVE_HIGH>, /* P0.08 NRF52840, D0 pro-micro */
-              <&pro_micro 1 GPIO_ACTIVE_HIGH>, /* P0.06 NRF52840, D1 pro-micro */
+              <&pro_micro 1 GPIO_ACTIVE_HIGH>  /* P0.06 NRF52840, D1 pro-micro */
+              ;
     }; 
 };
