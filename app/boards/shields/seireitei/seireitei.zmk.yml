@@ -1,0 +1,9 @@
+file_format: "1"
+id: seireitei
+name: The Seireitei
+type: shield
+url: https://github.com/TristenSeth/zmk-config
+requires:
+  - pro_micro
+features:
+  - keys
